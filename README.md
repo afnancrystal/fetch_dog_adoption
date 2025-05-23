@@ -3,16 +3,15 @@
 **Bringing Hope, One Bark at a Time**  
 A responsive React app for browsing adoptable dogs using location-based filtering, breed selection, and personalized favorites; built as part of Fetch's Frontend Take-Home Assessment.
 
-<h2 align="center">📸 Pawtastic Rescue Screenshots</h2>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4d48551f-cb91-46d1-a71a-812bf73e3568" width="350" style="margin:10px"/>
-  <img src="https://github.com/user-attachments/assets/2e8fbc2d-1e3d-4a06-b7a0-8c9dd4957070" width="350" style="margin:10px"/>
-  <img src="https://github.com/user-attachments/assets/2a41876c-6eea-46e8-b2e0-c71959e3c487" width="350" style="margin:10px"/>
-  <img src="https://github.com/user-attachments/assets/283533f7-a008-4dd7-86e9-2f28e9fe0b7d" width="350" style="margin:10px"/>
-  <img src="https://github.com/user-attachments/assets/2bf6ca9d-bad7-468b-92af-13dc01504d85" width="350" style="margin:10px"/>
-</div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d48551f-cb91-46d1-a71a-812bf73e3568"width="200"/>
+  <img src="https://github.com/user-attachments/assets/2e8fbc2d-1e3d-4a06-b7a0-8c9dd4957070" width="200"/>
+  <img src="(https://github.com/user-attachments/assets/2a41876c-6eea-46e8-b2e0-c71959e3c487" width="200"/>
+</p>
+<p>  
+  <img src="https://github.com/user-attachments/assets/283533f7-a008-4dd7-86e9-2f28e9fe0b7d" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2bf6ca9d-bad7-468b-92af-13dc01504d85" width="200"/>
+</p>
 
 ---
 
