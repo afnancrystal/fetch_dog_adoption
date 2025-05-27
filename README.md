@@ -1,7 +1,7 @@
 # 🐾 Pawtastic Rescue
 
 **Bringing Hope, One Bark at a Time**  
-A responsive React app for browsing adoptable dogs using location-based filtering, breed selection, and personalized favorites; built as part of Fetch's Frontend Take-Home Assessment.
+A responsive React app for browsing adoptable dogs using location-based filtering, breed selection, and personalized favorites.
 
 <div align="center">
   <!-- Row 1 -->
@@ -102,4 +102,4 @@ src/
 
 ## 🙌 Acknowledgments
 
-Thanks to [Fetch](https://www.fetch.com) for the opportunity and the pawesome API!
+Thanks to [Fetch](https://www.fetch.com) for the pawesome API!
